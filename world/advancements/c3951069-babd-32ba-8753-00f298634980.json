@@ -1,0 +1,39 @@
+{
+  "butchercraft:root": {
+    "criteria": {
+      "tick": "2024-02-14 17:54:10 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-02-14 17:54:10 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-02-14 17:54:10 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-02-14 17:54:10 +0100"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-02-14 17:54:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-02-14 17:54:10 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
